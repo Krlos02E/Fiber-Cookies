@@ -1,2 +1,2 @@
 # Fiber-Cookies
-Proyecto con implementación de uso de cookies con fiber para mantener una sesión con jwt
+Proyecto con uso de cookies implementando fiber para mantener una sesión usando jwt
